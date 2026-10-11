@@ -23,6 +23,10 @@ Engineer at **Juspay**. I build developer tools and small, polished apps, and I 
 
 **Amble**: an iOS app. Coming soon.
 
+Shrike is free and open source. If it saves you an afternoon, you can keep it going with a coffee:
+
+<a href="https://www.buymeacoffee.com/st72365Q"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="44" alt="Buy me a coffee"></a>
+
 ---
 
 ### Open source
