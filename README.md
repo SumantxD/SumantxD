@@ -10,7 +10,14 @@ Engineer at **Juspay**. I build developer tools and small, polished apps, and I 
 
 **[Shrike](https://github.com/SumantxD/shrike)**: an agentic debugger for vibe coders. Click something in your app and watch the request travel through your code, your database and your real files, then let your coding agent find and fix the bug with your approval. Local-first, open source.
 
-<a href="https://github.com/SumantxD/shrike"><img src="https://raw.githubusercontent.com/SumantxD/shrike/main/docs/media/shrike-hero.gif" alt="Shrike: a broken click traced to the exact line" width="720"></a>
+<a href="https://github.com/SumantxD/shrike">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumantxD/shrike/main/docs/media/banner-light.webp">
+    <img src="https://raw.githubusercontent.com/SumantxD/shrike/main/docs/media/banner-dark.webp" alt="Shrike: your app, recorded. Your agent, with eyes." width="720">
+  </picture>
+</a>
+
+[Watch the 40 second launch video](https://github.com/SumantxD/shrike/releases/download/v0.1.0/shrike-launch.mp4)
 
 **[Slide Easy](https://slideeasy.app)**: a Mac app that turns your App Store page into Instagram Reels, carousels and stories, written from what real users say in reviews. Runs on your Mac, no cloud credits.
 
