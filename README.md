@@ -17,7 +17,7 @@ Engineer at **Juspay**. I build developer tools and small, polished apps, and I 
   </picture>
 </a>
 
-[Watch the 40 second launch video](https://github.com/SumantxD/shrike/releases/download/v0.1.0/shrike-launch.mp4)
+[Watch the 40 second launch video](https://youtu.be/z_9tfvs3_jU)
 
 **[Slide Easy](https://slideeasy.app)**: a Mac app that turns your App Store page into Instagram Reels, carousels and stories, written from what real users say in reviews. Runs on your Mac, no cloud credits.
 
